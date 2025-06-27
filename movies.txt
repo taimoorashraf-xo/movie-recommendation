@@ -1,0 +1,11 @@
+Inception,sci-fi,anything,9
+Pulp Fiction,crime,cool,8.9
+The Godfather,crime,serious,10
+Zootopia,animation,happy,8
+Goodfellas,crime,gritty,9
+Kill Bill,action,intense,8.1
+The Irishman,crime,anything,7.9
+Django Unchained,western,bold,8.4
+Shutter Island,thriller,anything,8.2
+Once Upon a Time in Hollywood,comedy,nostalgic,7.6
+devdaas,sad,boring,9
