@@ -80,7 +80,6 @@ void showmovies(const vector<movie>& movies) {
 
 void updatemovie(vector<movie>& movies) {
     string title;
-    cin.ignore();
     cout << "Enter title of the movie to update: ";
     getline(cin, title);
     for (int i = 0; i < movies.size(); i++) {
